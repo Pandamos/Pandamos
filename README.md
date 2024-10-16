@@ -80,16 +80,16 @@ Soon-to-be graduate in Software Engineering from the University of Buenos Aires,
 
 ## Organizations
 
+<a href="https://github.com/Merok23/TPG-Taller-Left4dead-Grupo1">
+  <img align="left" src="/assets/Left4Dead.svg" alt="TPG-Taller-Left4dead" width="40" style="padding-right:10px;" />
+</a>
+
 <a href="https://github.com/Taller2-Grupo4-SnapMsg">
   <img align="left" src="https://avatars.githubusercontent.com/u/143455083?s=200&v=4" alt="SnapMsg" width="40" style="padding-right:10px;" />
 </a>
 
 <a href="https://github.com/AquaCultiva">
   <img align="left" src="https://avatars.githubusercontent.com/u/170190575?s=200&v=4" alt="AquaCultiva" width="40" style="padding-right:10px;" />
-</a>
-
-<a href="https://github.com/Merok23/TPG-Taller-Left4dead-Grupo1">
-  <img align="left" src="/assets/Left4Dead.svg" alt="TPG-Taller-Left4dead" width="40" style="padding-right:10px;" />
 </a>
 
 <br clear="left" />
