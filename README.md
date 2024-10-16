@@ -8,12 +8,6 @@
   innovative solutions to create impactful projects.
 </p>
 
-<div style="text-align: center;">
-  <img src="/assets/woman_coding_1.jpg" 
-       alt="Modern Woman" width="450" 
-       style="border-radius: 10px; border: none;"/>
-</div>
-
 ### Programming Languages
 
 <img align ="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
