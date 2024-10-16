@@ -1,23 +1,18 @@
 # Abril Diaz Miguez
 **`Software Developer`**
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<p style="text-align: center;">
+  Soon-to-be graduate in Software Engineering from the University of Buenos Aires, 
+  with experience in software design, development, and testing. Driven by a passion 
+  for growth and continuous learning, I thrive on tackling new challenges and exploring 
+  innovative solutions to create impactful projects.
+</p>
 
-  <div style="flex: 1; min-width: 200px; border: none;">
-    <p>
-      Soon-to-be graduate in Software Engineering from the University of Buenos Aires, 
-      with experience in software design, development, and testing. Driven by a passion 
-      for growth and continuous learning, I thrive on tackling new challenges and exploring 
-      innovative solutions to create impactful projects.
-    </p>
-  </div>
-
+<div style="text-align: center;">
   <img src="/assets/woman_coding_1.jpg" 
-       alt="Modern Woman" width="300" 
-       style="border-radius: 10px; border: none; padding-left: 10px;" />
-
+       alt="Modern Woman" width="450" 
+       style="border-radius: 10px; border: none;"/>
 </div>
-
 
 ### Programming Languages
 
