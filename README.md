@@ -11,11 +11,10 @@
   </p>
 
   <img src="/assets/woman_coding_1.jpg" 
-       alt="Modern Woman" width="250" 
+       alt="Modern Woman" width="150" 
        style="border-radius: 10px;" />
 
 </div>
-#
 
 ### Programming Languages
 
