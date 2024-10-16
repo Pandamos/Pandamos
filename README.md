@@ -10,7 +10,7 @@
     innovative solutions to create impactful projects.
   </p>
 
-  <img src="/Users/abrildiazmiguez/Desktop/woman_coding_1.jpg" 
+  <img src="/assets/woman_coding_1.jpg" 
        alt="Modern Woman" width="250" 
        style="border-radius: 10px;" />
 
