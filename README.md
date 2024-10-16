@@ -3,7 +3,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-  <p style="flex: 1; min-width: 200px;">
+  <p style="flex: 1; min-width: 150px;">
     Soon-to-be graduate in Software Engineering from the University of Buenos Aires, 
     with experience in software design, development, and testing. Driven by a passion 
     for growth and continuous learning, I thrive on tackling new challenges and exploring 
